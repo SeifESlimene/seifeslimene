@@ -4,8 +4,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
 
 - 🌱 I’m currently learning **Next.js 13, Rails 7**
 

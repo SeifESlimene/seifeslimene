@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Seif Eddine Slimene</h1>
 <h3 align="center">A Passionate Fullstack Javascript Developer From Tunisia</h3>
 
-<br>
-<br>
-<br>
-<br>
+<br />
+<br />
+<br />
+<br />
+<br />
 
 - 🌱 I’m currently learning **Next.js 13, Rails 7**
 

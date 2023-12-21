@@ -4,7 +4,7 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning **Next.js 13, Rails 7**
+- 🌱 I’m currently learning **Next.js 14, Rails 7**
 
 - 👨‍💻 All of my projects are available at [www.seifeslimene.com](www.seifeslimene.com)
 
